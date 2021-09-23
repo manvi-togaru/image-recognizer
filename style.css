@@ -1,0 +1,17 @@
+body
+{background-color: plum;
+color: seashell;                 }
+.heading{
+    width: 80%;
+    font-size: 23px;
+    margin-left: 100px;
+}
+.nameofobjects{
+  color: honeydew;
+}
+#camera,#result
+{
+width: 350px;
+height: 350px;
+border: 3px solid;
+}
